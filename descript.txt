@@ -1,0 +1,69 @@
+﻿seriko.alignmenttodesktop,free
+seriko.use_self_alpha,1
+
+charset,UTF-8
+type,shell
+name,Slimedration
+craftman,Galla
+craftmanurl,
+
+menu.background.bitmap.filename,menu_background.png
+menu.foreground.bitmap.filename,menu_foreground.png
+menu.sidebar.bitmap.filename,menu_sidebar.png
+
+sakura.bindoption100.group,Flavor,mustselect
+sakura.bindgroup100.default,1
+sakura.bindgroup100.name,Flavor,Water
+sakura.bindgroup103.name,Flavor,Milk
+sakura.bindgroup106.name,Flavor,Vodka
+sakura.bindgroup109.name,Flavor,Matcha
+sakura.bindgroup112.name,Flavor,Tea
+sakura.bindgroup115.name,Flavor,Coffee
+sakura.bindgroup118.name,Flavor,Cranberry
+sakura.bindgroup121.name,Flavor,Orange
+sakura.bindgroup124.name,Flavor,Apple
+sakura.bindgroup127.name,Flavor,Celery
+sakura.bindgroup130.name,Flavor,Blueberry
+sakura.bindgroup133.name,Flavor,Grape
+sakura.bindgroup136.name,Flavor,Dragonfruit
+sakura.bindgroup139.name,Flavor,Lemonaide
+sakura.bindgroup142.name,Flavor,Strawberry
+sakura.bindgroup145.name,Flavor,Ink
+sakura.bindgroup148.name,Flavor,Punch
+sakura.bindgroup151.name,Flavor,Tropical
+sakura.bindgroup154.name,Flavor,Mermaid
+sakura.bindgroup157.name,Flavor,Pride
+sakura.bindgroup160.name,Flavor,Stardust
+
+sakura.bindgroup1000.name,Straw,Red Plastic
+sakura.bindgroup1000.addid,2000
+sakura.bindgroup1002.name,Straw,Blue Plastic
+sakura.bindgroup1002.addid,2002
+sakura.bindgroup1004.name,Straw,Yellow Plastic
+sakura.bindgroup1004.addid,2004
+sakura.bindgroup1006.name,Straw,Green Plastic
+sakura.bindgroup1006.addid,2006
+sakura.bindgroup1020.name,Straw,Tan Boba
+sakura.bindgroup1020.addid,2020
+sakura.bindgroup1022.name,Straw,Black Boba
+sakura.bindgroup1022.addid,2022
+sakura.bindgroup1024.name,Straw,Peach Boba
+sakura.bindgroup1024.addid,2024
+sakura.bindgroup1026.name,Straw,Teal Boba
+sakura.bindgroup1026.addid,2026
+sakura.bindgroup1040.name,Straw,Red Super
+sakura.bindgroup1040.addid,2040
+sakura.bindgroup1042.name,Straw,Purple Super
+sakura.bindgroup1042.addid,2042
+sakura.bindgroup1044.name,Straw,Green Super
+sakura.bindgroup1044.addid,2044
+sakura.bindgroup1046.name,Straw,Orange Super
+sakura.bindgroup1046.addid,2046
+sakura.bindgroup1060.name,Straw,Pink Party
+sakura.bindgroup1060.addid,2060
+sakura.bindgroup1062.name,Straw,Purple Party
+sakura.bindgroup1062.addid,2062
+sakura.bindgroup1064.name,Straw,Yellow Party
+sakura.bindgroup1064.addid,2064
+sakura.bindgroup1066.name,Straw,Blue Party
+sakura.bindgroup1066.addid,2066
