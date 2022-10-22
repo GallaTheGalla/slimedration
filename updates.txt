@@ -1,7 +1,7 @@
 charset,OSNative
 file,.gitattributes05bdb783ee6514c8c072e47680af8ff7size=66date=2022-10-22T01:55:53
 file,README.md4767b4dda2af675f6de2c619efdda8a9size=17date=2022-10-22T01:55:53
-file,descript.txt1c1bd6a50bcbfaf261b0d738c854d845size=2468date=2022-08-20T14:16:16
+file,descript.txtc0a5b81ab0231005d0eb6fc1097f6b4esize=2534date=2022-10-22T02:17:29
 file,install.txtb46e1874e6cbf9b3af2780315593d234size=70date=2022-08-20T14:16:31
 file,menu_background.png12755581ae168972f8a866e806529c02size=174date=2022-08-20T03:50:34
 file,menu_foreground.png009fbd2be96c10c08f3f44cad97b706bsize=174date=2022-08-20T03:51:48

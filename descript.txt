@@ -5,7 +5,7 @@ charset,UTF-8
 type,shell
 name,Slimedration
 craftman,Galla
-craftmanurl,
+craftmanurl,https://raw.githubusercontent.com/GallaTheGalla/slimedration/main/
 
 menu.background.bitmap.filename,menu_background.png
 menu.foreground.bitmap.filename,menu_foreground.png
