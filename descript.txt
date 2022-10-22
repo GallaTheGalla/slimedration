@@ -4,8 +4,8 @@ seriko.use_self_alpha,1
 charset,UTF-8
 type,shell
 name,Slimedration
-craftman,Galla
-craftmanurl,https://raw.githubusercontent.com/GallaTheGalla/slimedration/main/
+craftman,Gallacraftmanurl,https://GallaTheGalla.github.io/gtg-ghosts/
+homeurl,https://raw.githubusercontent.com/GallaTheGalla/slimedration/main/
 
 menu.background.bitmap.filename,menu_background.png
 menu.foreground.bitmap.filename,menu_foreground.png
