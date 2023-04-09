@@ -4,7 +4,8 @@ seriko.use_self_alpha,1
 charset,UTF-8
 type,shell
 name,Slimedration
-craftman,Gallacraftmanurl,https://GallaTheGalla.github.io/gtg-ghosts/
+craftman,Galla
+craftmanurl,https://GallaTheGalla.github.io/gtg-ghosts/
 homeurl,https://raw.githubusercontent.com/GallaTheGalla/slimedration/main/
 
 menu.background.bitmap.filename,menu_background.png
@@ -35,35 +36,35 @@ sakura.bindgroup154.name,Flavor,Mermaid
 sakura.bindgroup157.name,Flavor,Pride
 sakura.bindgroup160.name,Flavor,Stardust
 
-sakura.bindgroup1000.name,Straw,Red Plastic
+sakura.bindgroup1000.name,Plastic Straw,Red Plastic
 sakura.bindgroup1000.addid,2000
-sakura.bindgroup1002.name,Straw,Blue Plastic
+sakura.bindgroup1002.name,Plastic Straw,Blue Plastic
 sakura.bindgroup1002.addid,2002
-sakura.bindgroup1004.name,Straw,Yellow Plastic
+sakura.bindgroup1004.name,Plastic Straw,Yellow Plastic
 sakura.bindgroup1004.addid,2004
-sakura.bindgroup1006.name,Straw,Green Plastic
+sakura.bindgroup1006.name,Plastic Straw,Green Plastic
 sakura.bindgroup1006.addid,2006
-sakura.bindgroup1020.name,Straw,Tan Boba
+sakura.bindgroup1020.name,Boba Straw,Tan Boba
 sakura.bindgroup1020.addid,2020
-sakura.bindgroup1022.name,Straw,Black Boba
+sakura.bindgroup1022.name,Boba Straw,Black Boba
 sakura.bindgroup1022.addid,2022
-sakura.bindgroup1024.name,Straw,Peach Boba
+sakura.bindgroup1024.name,Boba Straw,Peach Boba
 sakura.bindgroup1024.addid,2024
-sakura.bindgroup1026.name,Straw,Teal Boba
+sakura.bindgroup1026.name,Boba Straw,Teal Boba
 sakura.bindgroup1026.addid,2026
-sakura.bindgroup1040.name,Straw,Red Super
+sakura.bindgroup1040.name,Super Straw,Red Super
 sakura.bindgroup1040.addid,2040
-sakura.bindgroup1042.name,Straw,Purple Super
+sakura.bindgroup1042.name,Super Straw,Purple Super
 sakura.bindgroup1042.addid,2042
-sakura.bindgroup1044.name,Straw,Green Super
+sakura.bindgroup1044.name,Super Straw,Green Super
 sakura.bindgroup1044.addid,2044
-sakura.bindgroup1046.name,Straw,Orange Super
+sakura.bindgroup1046.name,Super Straw,Orange Super
 sakura.bindgroup1046.addid,2046
-sakura.bindgroup1060.name,Straw,Pink Party
+sakura.bindgroup1060.name,Party Straw,Pink Party
 sakura.bindgroup1060.addid,2060
-sakura.bindgroup1062.name,Straw,Purple Party
+sakura.bindgroup1062.name,Party Straw,Purple Party
 sakura.bindgroup1062.addid,2062
-sakura.bindgroup1064.name,Straw,Yellow Party
+sakura.bindgroup1064.name,Party Straw,Yellow Party
 sakura.bindgroup1064.addid,2064
-sakura.bindgroup1066.name,Straw,Blue Party
+sakura.bindgroup1066.name,Party Straw,Blue Party
 sakura.bindgroup1066.addid,2066
